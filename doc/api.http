@@ -1,0 +1,20 @@
+
+
+GET  http://localhost:5000/api/v1
+
+
+###
+
+POST  http://localhost:5000/api/v1/todos
+
+{
+  "title": "Miguel",
+  "description": "berta"
+}
+
+###
+GET  http://localhost:5000/api/v1/todos
+
+
+### 
+GET  http://localhost:5000/api/v1/todos/cm4shxg0k0002h6fh98c2dsmy
