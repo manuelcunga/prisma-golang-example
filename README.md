@@ -1,14 +1,6 @@
-Entendido! Vou ajustar o README para indicar que os comandos devem ser executados via `make` e não diretamente no terminal. O `Makefile` com as configurações já fornecidas será usado para isso.
-
-Aqui está o README reorganizado:
-
----
-
 # Prisma Go Example
 
-Este projeto é um exemplo básico de como usar o **Prisma Client** com Go para manipulação de dados e execução de APIs.
-
----
+### Este projeto é um exemplo básico de como usar o **Prisma Client** com Go para manipulação de dados e execução de APIs.
 
 ## Pré-requisitos
 
