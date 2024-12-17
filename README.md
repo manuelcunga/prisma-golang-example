@@ -1,6 +1,8 @@
 # Prisma Go Example
 
-### Este projeto é um exemplo básico de como usar o **Prisma Client** com Go para manipulação de dados e execução de APIs.
+### Este projeto é um exemplo básico de como usar o [**Prisma Client**](https://goprisma.org/)
+
+com Go para manipulação de dados e execução de APIs.
 
 ## Pré-requisitos
 
