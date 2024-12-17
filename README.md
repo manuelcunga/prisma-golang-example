@@ -18,7 +18,7 @@ Antes de iniciar o projeto, você pode rodar os seguintes comandos usando `make`
 ### 1. Comandos disponíveis com `make`
 
 - **Limpar e organizar as dependências do Go**  
-  Execute o comando para rodar `go mod tidy`, que limpa e organiza as dependências do projeto:
+  Execute o comando para rodar `make init`, que limpa e organiza as dependências do projeto:
 
   ```bash
   make init
